@@ -1,0 +1,5 @@
+var oImgs=new Array(
+“数据1”,
+“数据2”,
+“数据3” );
+var n=oImgs.length; var currIndex=Math.floor(Math.random() * n) document.writeln(oImgs[currIndex]);

@@ -1,0 +1,7 @@
+/* 隐藏商桥 */
+
+document.writeln("<style>.qiao-icon-sector-inner{display:none!important;}</style>");
+
+/*隐藏商务通默认图片*/
+
+document.writeln("#LRfloater1,#LRfloater0{display:none;}");
